@@ -1,3 +1,3 @@
-go 1.25.0
+go 1.23
 
 module github.com/gojzo-ux/go
