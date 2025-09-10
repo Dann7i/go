@@ -1,4 +1,3 @@
-
 ## Tentang Golang
 
 **Golang** adalah bahasa pemrograman sumber terbuka (**open-source**) yang dikembangkan oleh **Google** untuk menciptakan aplikasi yang efisien, cepat, dan skalabel.  
