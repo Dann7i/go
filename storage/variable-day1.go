@@ -1,12 +1,9 @@
-package main
-
+package main 
 import "fmt"
 
 func main() {
 var nama string = "Wildan Hermawan"
-var umur int = 17
+dan := "Dan"
 fmt.Println(nama)
-fmt.Println(umur)
-
-
- }
+fmt.Println(dan) 
+}
