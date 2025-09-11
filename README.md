@@ -30,4 +30,4 @@ Golang banyak digunakan dalam berbagai bidang, antara lain:
 
 Perusahaan besar seperti **Uber**, **Kubernetes**, dan **Docker** memanfaatkan Golang untuk membangun aplikasi dan sistem mereka.
 
-##see you🥱
+##see_you🥱
