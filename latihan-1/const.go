@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func mainConst() {
+func constMain() {
 	const hobi = "Ngoding, main game, nonton youtube"
 	const sekolah = "MA Nurul Iman"
 	//boolean
@@ -13,3 +13,5 @@ func mainConst() {
 	fmt.Println("Apakah aku punya pacar?", pacar)
 
 }
+
+// const tidak bisa diubah nilainya
