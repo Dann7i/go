@@ -12,4 +12,6 @@ func main() {
 	fmt.Println("Umur saya ", umur)
 	fmt.Println("Saya tinggal di ", kota)
 	fmt.Println("Tahun sekarang ", tahun)
+
+	mainConst()
 }
