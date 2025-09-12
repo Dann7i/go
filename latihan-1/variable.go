@@ -14,3 +14,9 @@ func main() {
 	fmt.Println("Tahun sekarang ", tahun)
 
 }
+
+// var: deklarasi variable
+// tipe data harus ditulis
+// := : deklarasi variable tanpa menulis tipe data, tipe data akan mengikuti nilai yang diisikan
+// string: teks
+// int: bilangan bulat
